@@ -1,22 +1,10 @@
-# 職務経歴書
+# 職務経歴
 
 ## 目次
 - [基本情報](#基本情報)
-- [要約](#要約)
-- [職務経歴](#職務経歴)
 - [バックボーン](#バックボーン)
-- [その他の経験](#その他の経験)
-
-
-## バックボーン
-| カテゴリ                       | 技術スタック                                                                                                                |
-|------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| プログラミング言語とライブラリ            | Python, JavaScript (ES7), TypeScript                                                                                     |
-| フロントエンドフレームワーク・ライブラリ  | React, Next.js, TailwindCSS, Chakra UI, Shadcn                                                                            |
-| バックエンドフレームワーク・ライブラリ    | Flask, Supabase, Prisma                                                                                                   |
-| ミドルウェア & クラウドサービス       | Amazon Web Services (ECR, DynamoDB, S3, CloudWatch, CloudFormation, IAM, Lambda, Fargate, Batch, EventBridge, APIGateway, SNS, SES, Bedrock, SageMaker), AWS Serverless Application Model,<br>Google Cloud Platform (Google Apps Script, Cloud Functions, Cloud Storage, Vertex AI, Firebase) |
-| 技術系その他（CI、検索エンジン、コード管理） | Jenkins, Docker, GitLab                                                                                                   |
-| ビジネスツール・コミュニケーション       | Google Workspace, Microsoft Teams, JIRA, Chatwork, Confluence, Linear, Google Meet, Zoom, Slack                           |
+- [職務経歴](#職務経歴)
+- [その他](#その他)
 
 ## 基本情報
 |項目	|値|
@@ -25,8 +13,18 @@
 |生年月日|	1996/11/24|
 |出身|広島県|
 |在住|	東京都|
-|趣味|	登山、読書、Atcoder|
+|趣味|	登山、読書|
 |クリフトンストレングス®︎|	個別化、信念、調和性、規律性、最上志向|
+
+## バックボーン
+| カテゴリ                       | 技術スタック                                                                                                                |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| プログラミング言語とライブラリ            | Python, JavaScript, TypeScript                                                                                     |
+| フロントエンドフレームワーク・ライブラリ  | React, Next.js, TailwindCSS, Chakra UI, Shadcn                                                                            |
+| バックエンドフレームワーク・ライブラリ    | Flask, Supabase, Prisma                                                                                                   |
+| ミドルウェア & クラウドサービス       | Amazon Web Services (ECR, DynamoDB, S3, CloudWatch, CloudFormation, IAM, Lambda, Fargate, Batch, EventBridge, APIGateway, SNS, SES, Bedrock, SageMaker), AWS Serverless Application Model,<br>Google Cloud Platform (Google Apps Script, Cloud Functions, Cloud Storage, Vertex AI, Firebase) |
+| 技術系その他（CI、検索エンジン、コード管理） | Jenkins, Docker, GitLab                                                                                                   |
+| ビジネスツール・コミュニケーション       | Google Workspace, Microsoft Teams, JIRA, Chatwork, Confluence, Linear, Google Meet, Zoom, Slack                           |
 
 ## 職務経歴
 
@@ -62,6 +60,5 @@
 - **ルーチンワークの自動化**: VBAやRPAを活用して、ルーチン作業を自動化し、生産性の向上と効率化を実現。
 - **Google Workspaceの導入**: 効率的な業務運用を目的にGoogle Workspaceを導入し、業務のデジタル化とコミュニケーションの効率化を推進。
 
-### アルバイト経験
-- **バイヤー活動**: 大学時代に中国製Lightningケーブルの輸入販売を行い、オンラインマーケットプレイスで成功を収める。この経験から市場調査、販売戦略のスキルを磨く。
-- **自動化スキルの習得**: 業務効率化を目指し、VBAを使った自動化スキルを習得。単純作業の削減により、より戦略的な業務に集中。
+## その他
+[Zenn](https://zenn.dev/ovrsa)に不定期で技術記事を投稿。
