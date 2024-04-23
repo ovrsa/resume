@@ -21,7 +21,7 @@
 | プログラミング言語とライブラリ            | Python, JavaScript, TypeScript                                                                                     |
 | フロントエンドフレームワーク・ライブラリ  | React, Next.js, TailwindCSS, ChakraUI, Shadcn                                                                            |
 | バックエンドフレームワーク・ライブラリ    | Flask, Supabase                                                                                                   |
-| ミドルウェア & クラウドサービス       | Amazon Web Services (ECR, DynamoDB, S3, CloudWatch, CloudFormation, IAM, Lambda, Batch, EventBridge, APIGateway, SNS, SES), AWS Serverless Application Model,<br>Google Cloud Platform (Google Apps Script, Cloud Functions, Cloud Storage, VertexAI, Firebase) |
+| ミドルウェア & クラウドサービス       | Amazon Web Services (ECR, DynamoDB, S3, CloudWatch, CloudFormation, IAM, Lambda, Batch, EventBridge, APIGateway, SNS, SES), AWS Serverless Application Model,<br>Google Cloud Platform (Google Apps Script, Cloud Functions, Cloud Storage, BigQuery, VertexAI, Firebase) |
 | 技術系その他（CI、検索エンジン、コード管理） | Jenkins, Docker, GitLab                                                                                                   |
 | ビジネスツール・コミュニケーション       | Google Workspace, JIRA, Chatwork, Confluence, Linear, Google Meet, Zoom, Slack                           |
 
@@ -41,7 +41,7 @@
 - **AWS Lambdaを用いたAPIサービス連携**: PythonとJavaScriptを使用して、様々な外部サービスとの連携APIを設計・実装。サービス間のスムーズなデータ交換を実現し、業務の自動化と効率化を推進。
 - **LambdaとECRを利用したデータ同期とドキュメント管理**: AWSのコンテナサービスを活用して、S3とGoogle Drive間のデータ同期システムを構築。ドキュメントのPDF化を含めたファイル管理の自動化を実現。
 - **顧客情報の集計と分析**: Redash、Google Apps Script、Lambdaを使用し、顧客データの収集、集計ダッシュボードを開発。データドリブンな意思決定をサポート。月次で50時間の業務時間削減。
-- **社内ドキュメントの効率化**: VertexAIを用いて、従来のドキュメント管理プロセスを刷新。社内情報のアクセシビリティと検索性を向上させ、労働時間の削減と生産性の向上を実現。
+- **社内ドキュメントの効率化**: VertexAI等を活用して、ユーザーからの質問に対してGoogleDriveの情報をソースに回答を生成するシステムを構築。
 - **労務部門の自動化**: AWS Batchを活用して、労務部門の定期的な有給消化のアナウンスを自動化。従業員のワークライフバランスの改善と、HR業務の効率化を図る。
 - **情報共有の改善とシステム移行**: チーム内の情報共有プロセスに課題を特定し、JIRAからLinearへの移行を提案・実施。業務フローの合理化と情報共有の効率化を実現し、チームパフォーマンスの向上に貢献。
 - **社内ハッカソンでの受賞**: 社内ハッカソンにて受賞。
