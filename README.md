@@ -15,16 +15,6 @@
 |在住|	東京都|
 |趣味|	登山、読書、AtCoder|
 
-## バックボーン
-| カテゴリ                       | 技術スタック                                                                                                                |
-|------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| プログラミング言語とライブラリ            | Python, JavaScript, TypeScript                                                                                     |
-| フロントエンドフレームワーク・ライブラリ  | React, Next.js, TailwindCSS, ChakraUI, Shadcn                                                                            |
-| バックエンドフレームワーク・ライブラリ    | Flask, Supabase                                                                                                   |
-| ミドルウェア & クラウドサービス       | Amazon Web Services (ECR, DynamoDB, S3, CloudWatch, CloudFormation, IAM, Lambda, Batch, EventBridge, APIGateway, SNS, SES), AWS Serverless Application Model,<br>Google Cloud Platform (Google Apps Script, Cloud Functions, Cloud Storage, BigQuery, VertexAI, Firebase) |
-| 技術系その他（CI、検索エンジン、コード管理） | Jenkins, Docker, GitLab                                                                                                   |
-| ビジネスツール・コミュニケーション       | Google Workspace, JIRA, Chatwork, Confluence, Linear, Google Meet, Zoom, Slack                           |
-
 ## 職務経歴
 
 ### 2023/09 - 現在: 株式会社レアジョブテクノロジーズ
@@ -35,6 +25,16 @@
 - 将来の変更に柔軟に対応可能な設計と構造の確立
 - 業務の定型化と自動化を推進し、属人化の防止
 - 参画するプロジェクトの状況に応じて、要件定義から設計、実装
+  
+#### 開発環境
+| カテゴリ                       | 技術スタック                                                                                                                |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| プログラミング言語とライブラリ            | Python, JavaScript, TypeScript                                                                                     |
+| フロントエンドフレームワーク・ライブラリ  | React, Next.js, TailwindCSS, ChakraUI, Shadcn                                                                            |
+| バックエンドフレームワーク・ライブラリ    | Flask, Supabase                                                                                                   |
+| ミドルウェア & クラウドサービス       | Amazon Web Services (ECR, DynamoDB, S3, CloudWatch, CloudFormation, IAM, Lambda, Batch, EventBridge, APIGateway, SNS, SES), AWS Serverless Application Model,<br>Google Cloud Platform (Google Apps Script, Cloud Functions, Cloud Storage, BigQuery, VertexAI, Firebase) |
+| 技術系その他（CI、検索エンジン、コード管理） | Jenkins, Docker, GitLab                                                                                                   |
+| ビジネスツール・コミュニケーション       | Google Workspace, JIRA, Chatwork, Confluence, Linear, Google Meet, Zoom, Slack                           |
 
 #### 実現したこと
 - **要件定義と設計**: 顧客と密接に連携し、ビジネスニーズを明確に理解。これを基に、実現可能かつ効率的なシステム設計（DesignDoc作成を含む）を策定し、プロジェクトの成功に寄与。
