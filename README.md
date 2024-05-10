@@ -50,7 +50,7 @@
 | カテゴリ                       | 技術スタック                                                                                                                |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | プログラミング言語とライブラリ            | Python, Node.js                                                                                     |
-| ミドルウェア & クラウドサービス       | Amazon Web Services (ECR, DynamoDB, S3, CloudWatch, CloudFormation, IAM, Lambda, Batch, EventBridge, APIGateway, SNS, SES), AWS Serverless Application Model,<br>
+| ミドルウェア & クラウドサービス       | Amazon Web Services (ECR, DynamoDB, S3, CloudWatch, CloudFormation, IAM, Lambda, Batch, EventBridge, APIGateway, SNS, SES), AWS Serverless Application Model,
 Google Cloud Platform (Google Apps Script, CloudFunctions, CloudStorage, BigQuery, VertexAI, AgentBuilder, Firebase) Cloud SDK|
 | 技術系その他（CI、検索エンジン、コード管理） | Docker, GitLab                                                                                                   |
 | ビジネスツール・コミュニケーション       | Google Workspace, JIRA, Chatwork, Confluence, Linear, Google Meet, Zoom, Slack                           |
