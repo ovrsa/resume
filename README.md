@@ -28,8 +28,8 @@
 ## 職務経歴
 
 ### 2023/09 - 現在: 株式会社レアジョブテクノロジーズ
-コーポレートエンジニアとして、レアジョブグループ全体の従業員の生産性向上を目指し、各部署のワークフローを最適化する企画を担当。
-プロジェクトのディレクション、システムの設計および実装が含まれる。
+コーポレートエンジニアとして、レアジョブグループ全体の従業員の生産性向上を目指し、各部署のワークフローを最適化する企画を担当。<br>
+プロジェクトのディレクション、システムの設計および実装が含まれる。<br>
 また、自社プロダクトに関連する社内バッジ処理の実装も行う。
 
 - **業務フロー企画**: 既存の業務フローを分析し、新しいアプリケーションやツールの導入を計画して業務のさらなる効率化を図る
@@ -49,8 +49,9 @@
 #### 開発環境
 | カテゴリ                       | 技術スタック                                                                                                                |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| プログラミング言語とライブラリ            | Python, JavaScript                                                                                     |
-| ミドルウェア & クラウドサービス       | Amazon Web Services (ECR, DynamoDB, S3, CloudWatch, CloudFormation, IAM, Lambda, Batch, EventBridge, APIGateway, SNS, SES), AWS Serverless Application Model,<br>Google Cloud Platform (Google Apps Script, Cloud Functions, Cloud Storage, BigQuery, VertexAI, Firebase) |
+| プログラミング言語とライブラリ            | Python, Node.js                                                                                     |
+| ミドルウェア & クラウドサービス       | Amazon Web Services (ECR, DynamoDB, S3, CloudWatch, CloudFormation, IAM, Lambda, Batch, EventBridge, APIGateway, SNS, SES), AWS Serverless Application Model,<br>
+Google Cloud Platform (Google Apps Script, CloudFunctions, CloudStorage, BigQuery, VertexAI, AgentBuilder, Firebase) Cloud SDK|
 | 技術系その他（CI、検索エンジン、コード管理） | Docker, GitLab                                                                                                   |
 | ビジネスツール・コミュニケーション       | Google Workspace, JIRA, Chatwork, Confluence, Linear, Google Meet, Zoom, Slack                           |
 
