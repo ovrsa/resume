@@ -21,7 +21,7 @@
 | プログラミング言語とライブラリ            | Python, JavaScript, TypeScript                                                                                     |
 | フロントエンドフレームワーク・ライブラリ  | React, Next.js, TailwindCSS, ChakraUI, Shadcn                                                                            |
 | バックエンドフレームワーク・ライブラリ    | Flask, Supabase                                                                                                   |
-| ミドルウェア & クラウドサービス       | Amazon Web Services (ECR, DynamoDB, S3, CloudWatch, CloudFormation, IAM, Lambda, Batch, EventBridge, APIGateway, SNS, SES), AWS Serverless Application Model,<br>Google Cloud Platform (Google Apps Script, Cloud Functions, Cloud Storage, BigQuery, VertexAI, Firebase) |
+| ミドルウェア & クラウドサービス       | Amazon Web Services (ECR, DynamoDB, S3, CloudWatch, CloudFormation, IAM, Lambda, Batch, EventBridge, APIGateway, SNS, SES), AWS Serverless Application Model,<br>Google Cloud Platform (IAM, Google Apps Script, Cloud Functions, Cloud Storage, BigQuery, VertexAI, Firebase) |
 | 技術系その他（CI、検索エンジン、コード管理） | Docker, GitLab                                                                                                   |
 | ビジネスツール・コミュニケーション       | Google Workspace, JIRA, Chatwork, Confluence, Linear, Google Meet, Zoom, Slack                           |
 
